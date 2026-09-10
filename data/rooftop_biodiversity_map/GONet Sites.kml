@@ -1,0 +1,870 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>GONet Sites</name>
+    <description><![CDATA[Red Dot: Existing Grosbeak Site<br>Green Bird: GONet Site]]></description>
+    <Style id="icon-1739-C2185B-normal">
+      <IconStyle>
+        <color>ff5b18c2</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1739-C2185B-highlight">
+      <IconStyle>
+        <color>ff5b18c2</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1739-C2185B">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1739-C2185B-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1739-C2185B-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1874-0F9D58-normal">
+      <IconStyle>
+        <color>ff589d0f</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1874-0F9D58-highlight">
+      <IconStyle>
+        <color>ff589d0f</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1874-0F9D58">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1874-0F9D58-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1874-0F9D58-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>All Sites</name>
+      <Placemark>
+        <name>ACCENTURE-TOWER</name>
+        <description><![CDATA[Latitude: 41.882<br>Longtitude: -87.641]]></description>
+        <styleUrl>#icon-1739-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Latitude">
+            <value>41.882</value>
+          </Data>
+          <Data name="Longtitude">
+            <value>-87.641</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -87.641,41.882,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ALGONQUIN-HIGHLAND</name>
+        <description><![CDATA[Latitude: 42.166<br>Longtitude: -88.282]]></description>
+        <styleUrl>#icon-1739-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Latitude">
+            <value>42.166</value>
+          </Data>
+          <Data name="Longtitude">
+            <value>-88.282</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -88.282,42.166,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>AURORA-UNIVERSITY</name>
+        <description><![CDATA[Latitude: 41.754<br>Longtitude: -88.347]]></description>
+        <styleUrl>#icon-1739-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Latitude">
+            <value>41.754</value>
+          </Data>
+          <Data name="Longtitude">
+            <value>-88.347</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -88.347,41.754,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>BARRINGTON-HND</name>
+        <description><![CDATA[Latitude: 42.16<br>Longtitude: -88.207]]></description>
+        <styleUrl>#icon-1739-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Latitude">
+            <value>42.16</value>
+          </Data>
+          <Data name="Longtitude">
+            <value>-88.207</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -88.207,42.16,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>BIG-MARSH</name>
+        <description><![CDATA[Latitude: 41.686<br>Longtitude: -87.573]]></description>
+        <styleUrl>#icon-1874-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="Latitude">
+            <value>41.686</value>
+          </Data>
+          <Data name="Longtitude">
+            <value>-87.573</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -87.573,41.686,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>BOTYARDS-HOYNE</name>
+        <description><![CDATA[Latitude: 41.804<br>Longtitude: -87.676]]></description>
+        <styleUrl>#icon-1739-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Latitude">
+            <value>41.804</value>
+          </Data>
+          <Data name="Longtitude">
+            <value>-87.676</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -87.676,41.804,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>BRIDGEPORT-BUBBLY</name>
+        <description><![CDATA[Latitude: 41.827<br>Longtitude: -87.653]]></description>
+        <styleUrl>#icon-1739-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Latitude">
+            <value>41.827</value>
+          </Data>
+          <Data name="Longtitude">
+            <value>-87.653</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -87.653,41.827,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>BUCKTOWN-LYNDALE</name>
+        <description><![CDATA[Latitude: 41.992<br>Longtitude: -87.686]]></description>
+        <styleUrl>#icon-1739-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Latitude">
+            <value>41.992</value>
+          </Data>
+          <Data name="Longtitude">
+            <value>-87.686</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -87.686,41.992,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CARY-DOVE</name>
+        <description><![CDATA[Latitude: 42.224<br>Longtitude: -88.2]]></description>
+        <styleUrl>#icon-1739-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Latitude">
+            <value>42.224</value>
+          </Data>
+          <Data name="Longtitude">
+            <value>-88.2</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -88.2,42.224,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>DEERFIELD-WOODVALE</name>
+        <description><![CDATA[Latitude: 42.178<br>Longtitude: -87.837]]></description>
+        <styleUrl>#icon-1739-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Latitude">
+            <value>42.178</value>
+          </Data>
+          <Data name="Longtitude">
+            <value>-87.837</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -87.837,42.178,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>DEKALB-LIBRARY</name>
+        <description><![CDATA[Latitude: 41.932<br>Longtitude: -88.75]]></description>
+        <styleUrl>#icon-1739-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Latitude">
+            <value>41.932</value>
+          </Data>
+          <Data name="Longtitude">
+            <value>-88.75</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -88.75,41.932,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>DOLTON-PIER11</name>
+        <description><![CDATA[Latitude: 41.647<br>Longtitude: -87.601]]></description>
+        <styleUrl>#icon-1739-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Latitude">
+            <value>41.647</value>
+          </Data>
+          <Data name="Longtitude">
+            <value>-87.601</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -87.601,41.647,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>DUPAGE-TIMBERRIDGE</name>
+        <description><![CDATA[Latitude: 41.897<br>Longtitude: -88.152]]></description>
+        <styleUrl>#icon-1739-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Latitude">
+            <value>41.897</value>
+          </Data>
+          <Data name="Longtitude">
+            <value>-88.152</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -88.152,41.897,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EASTSIDE-E106ST</name>
+        <description><![CDATA[Latitude: 41.703<br>Longtitude: -87.534]]></description>
+        <styleUrl>#icon-1739-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Latitude">
+            <value>41.703</value>
+          </Data>
+          <Data name="Longtitude">
+            <value>-87.534</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -87.534,41.703,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EDISON-OLYMPIA</name>
+        <description><![CDATA[Latitude: 42<br>Longtitude: -87.815]]></description>
+        <styleUrl>#icon-1874-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="Latitude">
+            <value>42</value>
+          </Data>
+          <Data name="Longtitude">
+            <value>-87.815</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -87.815,42,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EVANSTON-NORMANDY</name>
+        <description><![CDATA[Latitude: 42.058<br>Longtitude: -87.719]]></description>
+        <styleUrl>#icon-1739-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Latitude">
+            <value>42.058</value>
+          </Data>
+          <Data name="Longtitude">
+            <value>-87.719</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -87.719,42.058,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>GOVERNORS-C</name>
+        <description><![CDATA[Latitude: 41.449<br>Longtitude: -87.717]]></description>
+        <styleUrl>#icon-1739-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Latitude">
+            <value>41.449</value>
+          </Data>
+          <Data name="Longtitude">
+            <value>-87.717</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -87.717,41.449,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>GRESHAM-CCRX</name>
+        <description><![CDATA[Latitude: 41.744<br>Longtitude: -87.677]]></description>
+        <styleUrl>#icon-1739-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Latitude">
+            <value>41.744</value>
+          </Data>
+          <Data name="Longtitude">
+            <value>-87.677</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -87.677,41.744,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>HILLSIDE-EASTEND</name>
+        <description><![CDATA[Latitude: 41.879<br>Longtitude: -87.91]]></description>
+        <styleUrl>#icon-1739-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Latitude">
+            <value>41.879</value>
+          </Data>
+          <Data name="Longtitude">
+            <value>-87.91</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -87.91,41.879,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>HOMEWOOD-SCIENCE</name>
+        <description><![CDATA[Latitude: 41.562<br>Longtitude: -87.666]]></description>
+        <styleUrl>#icon-1739-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Latitude">
+            <value>41.562</value>
+          </Data>
+          <Data name="Longtitude">
+            <value>-87.666</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -87.666,41.562,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>HUMBOLDT-ALBANY</name>
+        <description><![CDATA[Latitude: 41.913<br>Longtitude: -87.705]]></description>
+        <styleUrl>#icon-1739-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Latitude">
+            <value>41.913</value>
+          </Data>
+          <Data name="Longtitude">
+            <value>-87.705</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -87.705,41.913,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>IN-LAKE-HAMMOND</name>
+        <description><![CDATA[Latitude: 41.582<br>Longtitude: -87.479]]></description>
+        <styleUrl>#icon-1739-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Latitude">
+            <value>41.582</value>
+          </Data>
+          <Data name="Longtitude">
+            <value>-87.479</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -87.479,41.582,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>KENWOOD-E50ST</name>
+        <description><![CDATA[Latitude: 41.804<br>Longtitude: -87.6]]></description>
+        <styleUrl>#icon-1739-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Latitude">
+            <value>41.804</value>
+          </Data>
+          <Data name="Longtitude">
+            <value>-87.6</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -87.6,41.804,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LINCOLNPARK-PEGGY</name>
+        <description><![CDATA[Latitude: 41.927<br>Longtitude: -87.635]]></description>
+        <styleUrl>#icon-1874-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="Latitude">
+            <value>41.927</value>
+          </Data>
+          <Data name="Longtitude">
+            <value>-87.635</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -87.635,41.927,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LOCKPORT-JERRY</name>
+        <description><![CDATA[Latitude: 41.59<br>Longtitude: -88.049]]></description>
+        <styleUrl>#icon-1739-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Latitude">
+            <value>41.59</value>
+          </Data>
+          <Data name="Longtitude">
+            <value>-88.049</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -88.049,41.59,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LOOP-CSO</name>
+        <description><![CDATA[Latitude: 41.879<br>Longtitude: -87.625]]></description>
+        <styleUrl>#icon-1739-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Latitude">
+            <value>41.879</value>
+          </Data>
+          <Data name="Longtitude">
+            <value>-87.625</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -87.625,41.879,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MARKHAM-PRAIRIES</name>
+        <description><![CDATA[Latitude: 41.608<br>Longtitude: -87.705]]></description>
+        <styleUrl>#icon-1739-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Latitude">
+            <value>41.608</value>
+          </Data>
+          <Data name="Longtitude">
+            <value>-87.705</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -87.705,41.608,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MCHENRY-MARENGO</name>
+        <description><![CDATA[Latitude: 42.244<br>Longtitude: -88.611]]></description>
+        <styleUrl>#icon-1739-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Latitude">
+            <value>42.244</value>
+          </Data>
+          <Data name="Longtitude">
+            <value>-88.611</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -88.611,42.244,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MORGAN-W112ST</name>
+        <description><![CDATA[Latitude: 41.6889745<br>Longtitude: -87.681]]></description>
+        <styleUrl>#icon-1874-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="Latitude">
+            <value>41.6889745</value>
+          </Data>
+          <Data name="Longtitude">
+            <value>-87.681</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -87.681,41.6889745,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>NILES-LIBRARY</name>
+        <description><![CDATA[Latitude: 42.027<br>Longtitude: -87.801]]></description>
+        <styleUrl>#icon-1874-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="Latitude">
+            <value>42.027</value>
+          </Data>
+          <Data name="Longtitude">
+            <value>-87.801</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -87.801,42.027,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>NORRIDGE-CHARMAINE</name>
+        <description><![CDATA[Latitude: 41.972<br>Longtitude: -87.832]]></description>
+        <styleUrl>#icon-1739-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Latitude">
+            <value>41.972</value>
+          </Data>
+          <Data name="Longtitude">
+            <value>-87.832</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -87.832,41.972,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>NORTHERLY-FIREHOUSE</name>
+        <description><![CDATA[Latitude: 41.858<br>Longtitude: -87.61]]></description>
+        <styleUrl>#icon-1874-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="Latitude">
+            <value>41.858</value>
+          </Data>
+          <Data name="Longtitude">
+            <value>-87.61</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -87.61,41.858,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>OAKPARK-ELMWOOD</name>
+        <description><![CDATA[Latitude: 41.868<br>Longtitude: -87.786]]></description>
+        <styleUrl>#icon-1739-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Latitude">
+            <value>41.868</value>
+          </Data>
+          <Data name="Longtitude">
+            <value>-87.786</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -87.786,41.868,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>PEOTONE-FARM</name>
+        <description><![CDATA[Latitude: 41.312<br>Longtitude: -87.7]]></description>
+        <styleUrl>#icon-1739-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Latitude">
+            <value>41.312</value>
+          </Data>
+          <Data name="Longtitude">
+            <value>-87.7</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -87.7,41.312,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>PLAINFIELD-GEORGE</name>
+        <description><![CDATA[Latitude: 41.591<br>Longtitude: -88.187]]></description>
+        <styleUrl>#icon-1739-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Latitude">
+            <value>41.591</value>
+          </Data>
+          <Data name="Longtitude">
+            <value>-88.187</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -88.187,41.591,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>PORTAGE-MASON</name>
+        <description><![CDATA[Latitude: 41.963<br>Longtitude: -87.776]]></description>
+        <styleUrl>#icon-1739-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Latitude">
+            <value>41.963</value>
+          </Data>
+          <Data name="Longtitude">
+            <value>-87.776</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -87.776,41.963,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>PRINTERSROW-PLYMOUTH</name>
+        <description><![CDATA[Latitude: 41.868<br>Longtitude: -87.628]]></description>
+        <styleUrl>#icon-1739-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Latitude">
+            <value>41.868</value>
+          </Data>
+          <Data name="Longtitude">
+            <value>-87.628</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -87.628,41.868,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SALTCREEK-RM</name>
+        <description><![CDATA[Latitude: 41.823<br>Longtitude: -87.894]]></description>
+        <styleUrl>#icon-1874-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="Latitude">
+            <value>41.823</value>
+          </Data>
+          <Data name="Longtitude">
+            <value>-87.894</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -87.894,41.823,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>TINLEYCREEK-RM</name>
+        <description><![CDATA[Latitude: 41.624<br>Longtitude: -87.784]]></description>
+        <styleUrl>#icon-1739-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Latitude">
+            <value>41.624</value>
+          </Data>
+          <Data name="Longtitude">
+            <value>-87.784</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -87.784,41.624,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>WESTRIDGE-JEROME</name>
+        <description><![CDATA[Latitude: 42.018<br>Longtitude: -87.704]]></description>
+        <styleUrl>#icon-1739-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Latitude">
+            <value>42.018</value>
+          </Data>
+          <Data name="Longtitude">
+            <value>-87.704</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -87.704,42.018,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>WICKER-STUDIOGANG</name>
+        <description><![CDATA[Latitude: 41.904<br>Longtitude: -87.666]]></description>
+        <styleUrl>#icon-1739-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Latitude">
+            <value>41.904</value>
+          </Data>
+          <Data name="Longtitude">
+            <value>-87.666</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -87.666,41.904,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LOOP-CAC</name>
+        <description><![CDATA[Latitude: 41.888<br>Longtitude: -87.624]]></description>
+        <styleUrl>#icon-1874-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="Latitude">
+            <value>41.888</value>
+          </Data>
+          <Data name="Longtitude">
+            <value>-87.624</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -87.624,41.888,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>200 South Wacker Drive</name>
+        <description><![CDATA[Latitude: <br>Longtitude: ]]></description>
+        <styleUrl>#icon-1874-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="Latitude">
+            <value/>
+          </Data>
+          <Data name="Longtitude">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -87.6371353,41.8792464,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Windy City Bird Lab</name>
+        <description><![CDATA[Latitude: <br>Longtitude: ]]></description>
+        <styleUrl>#icon-1874-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="Latitude">
+            <value/>
+          </Data>
+          <Data name="Longtitude">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -87.6634305,41.8833321,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
